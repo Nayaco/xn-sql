@@ -1,0 +1,33 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "ta﻿ian﻿﻿﻿﻿\r#XianNv-mysql\r\r---\r\r#description\r\r#####仙女-sql 你值得拥有\r\r---\r```\rnpm install\r```",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co-body": "^5.1.1",
+    "co-mysql": "^1.0.0",
+    "crypto": "^1.0.1",
+    "fs": "0.0.1-security",
+    "koa": "^2.4.1",
+    "koa-body": "^2.5.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.3.0",
+    "koa-session": "^5.5.1",
+    "koa-session2": "^2.2.5",
+    "md5": "^2.2.1",
+    "mysql2": "^1.5.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-register": "^6.26.0"
+  }
+}
