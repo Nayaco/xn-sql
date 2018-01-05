@@ -1,1 +1,7 @@
-^&§6û*•×¬r¸©¶*'²©g¦h§²Ö¥
+# XianNv-sql
+## description
+ä»™å¥³-sql ä½ å€¼å¾—æ‹¥æœ‰
+## Run
+```
+npm install
+```
